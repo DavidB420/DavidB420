@@ -7,7 +7,7 @@ My name is David Badiei, and I am a computer science student at York University
 I usually work as an intern during the summer. When I have free time I work on my own projects.
 
 # I’m currently working on ...
-  - [ZippiEFI (A small EFI bootloader/manager)](https://github.com/DavidB420/zippiefi)
+  - [ZippiEFI (A small UEFI bootloader/manager)](https://github.com/DavidB420/zippiefi)
   - [Doors++ (a 64 bit multitasking operating system, still pretty early in development)](https://github.com/DavidB420/doorspp)
 
 # Some noteworthy projects I have worked on in my spare time
