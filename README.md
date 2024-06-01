@@ -12,5 +12,6 @@ I usually work as an intern during the summer. When I have free time I work on m
 
 # Some noteworthy projects I have worked on in my spare time
 - [Doors NX (a 32 bit graphical operating system, written in x86 assembly)](https://github.com/DavidB420/doorsnx151)
+- [furios-terminal (An LVGL terminal emulator, part of FuriOS)](https://github.com/DavidB420/furios-terminal)
 - [AstroJumper (Simple game in Qt I made with some friends a couple years ago)](https://github.com/DavidB420/AstroJumper)
 - [MusicTime (simple Discord music bot that uses YouTube links)](https://github.com/DavidB420/musictime-public)
