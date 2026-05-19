@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/david-badiei-298638257/)
 
 Hi!\
-My name is David Badiei, and I am a computer science student at York University
+My name is David Badiei, and I am a computer science student at York University.
 
 I usually work as an intern during the summer. When I have free time I work on my own projects.
 
